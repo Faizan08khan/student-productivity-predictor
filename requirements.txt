@@ -1,0 +1,21 @@
+# 🚀 Core App:
+
+streamlit==1.32.0
+
+# 📊 Data Handling:
+
+pandas==2.2.1
+numpy==1.26.4
+
+# 🤖 Machine Learning:
+
+scikit-learn==1.4.1
+
+# 🎨 Visualization:
+
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# 💾 Utilities:
+
+joblib==1.3.2   # for saving/loading models
