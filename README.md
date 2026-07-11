@@ -49,3 +49,21 @@ Students can self‑assess their habits 📚
 Educators can explore performance drivers 🎓
 
 Data science learners can study a practical ML deployment example 💡
+
+🚀 Getting Started
+Clone the repo and run locally:
+
+bash
+git clone https://github.com/your-username/student-productivity-predictor.git
+cd student-productivity-predictor
+pip install -r requirements.txt
+streamlit run app.py
+Then open http://localhost:8501 in your browser to interact with the app.
+
+🔗 Links:
+
+🌐 Live Demo: [Streamlit app link]
+
+💻 Code & Dataset: [GitHub repo link]
+
+📒 Notebook Version: [Colab link]
