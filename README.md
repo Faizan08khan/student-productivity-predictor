@@ -61,10 +61,10 @@ Then open http://localhost:8501 in your browser to interact with the app.
 ## 📸 Demo
 
 ### Home Page
-![Home Page](images/screenshot1.png)
+![Home Page](scpro1.png)
 
 ### Prediction Results
-![Prediction Results](images/screenshot2.png)
+![Prediction Results](scpro2.png)
 
 📦 Installation
 Clone the repository:
