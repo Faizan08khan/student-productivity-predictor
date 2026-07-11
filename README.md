@@ -38,8 +38,6 @@ Deployment (Streamlit app with interactive UI).
 
 📂 Single‑file workflow (app.py) — train + predict in one place.
 
-🌐 Easy deployment on Streamlit Cloud.
-
 📈 Use Case:
 
 This app helps visualize how different factors influence student productivity.
@@ -67,3 +65,41 @@ Then open http://localhost:8501 in your browser to interact with the app.
 💻 Code & Dataset: [GitHub repo link]
 
 📒 Notebook Version: [Colab link]
+
+📦 Installation
+Clone the repository:
+
+bash
+git clone https://github.com/your-username/student-productivity-predictor.git
+cd student-productivity-predictor
+Create a virtual environment:
+
+bash
+python -m venv venv
+# On Linux/Mac
+source venv/bin/activate
+# On Windows
+venv\Scripts\activate
+Install dependencies:
+
+bash
+pip install -r requirements.txt
+▶️ Run the App
+Start Streamlit:
+
+bash
+streamlit run app.py
+Open your browser at:
+
+Code
+http://localhost:8501
+📝 Notes
+No need to install Pillow manually — Streamlit will handle it internally.
+
+If you face issues, delete the virtual environment and reinstall with:
+
+bash
+rm -rf venv
+python -m venv venv
+pip install -r requirements.txt
+Works on Python 3.9+ (tested locally)..
