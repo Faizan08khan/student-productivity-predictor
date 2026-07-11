@@ -58,13 +58,13 @@ pip install -r requirements.txt
 streamlit run app.py
 Then open http://localhost:8501 in your browser to interact with the app.
 
-🔗 Links:
+## 📸 Demo
 
-🌐 Live Demo: [Streamlit app link]
+### Home Page
+![Home Page](images/screenshot1.png)
 
-💻 Code & Dataset: [GitHub repo link]
-
-📒 Notebook Version: [Colab link]
+### Prediction Results
+![Prediction Results](images/screenshot2.png)
 
 📦 Installation
 Clone the repository:
